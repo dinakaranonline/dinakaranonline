@@ -17,3 +17,5 @@ Career Progression
  2. Cloud Native  / Serverless / DevOps ( 2+ years , since 2018 ) 
  
  Currently exploring the world of possibilities with the combination of Cloud - Data - ML - AI
+
+LinkedIn : https://www.linkedin.com/in/dinakaran-sankaranarayanan-3b73a79/
