@@ -31,7 +31,7 @@ Career Progression :
 - Cloud  / Serverless / DevOps ( 3+ years , since 2018 ) 
 - Data / ML / AI  (  baby steps, since October 2020)
 
-Social
+Social :
 
 - Blog: https://dinakaran.dev/blog
 - Podcast: Master Of None. https://anchor.fm/themasterofnone 
