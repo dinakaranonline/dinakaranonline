@@ -2,17 +2,17 @@ I'm Dinakaran from Chennai, India. I'm an Engineering Leader with 14+ yrs of exp
 
 Few highlights of my work experience
 
--Architecting and  Building Transformative Digital  Solutions at the intersection of Web, Mobile, Content, Cloud Native architectures like  Serverless
+- Architecting and  Building Transformative Digital  Solutions at the intersection of Web, Mobile, Content, Cloud Native architectures like  Serverless
 
--Extensive experience in all stages of SDLC life cycle and has hands-on experience on product evaluation, architecture, design and development roles as well as good exposure in support and maintenance of large scale applications    
+- Extensive experience in all stages of SDLC life cycle and has hands-on experience on product evaluation, architecture, design and development roles as well as good exposure in support and maintenance of large scale applications    
 
--Proficient in the technology stack of Java/J2EE Core Java, MVC - Struts, JSF, Webservices - SOAP and REST and JSR specifications. 
+- Proficient in the technology stack of Java/J2EE Core Java, MVC - Struts, JSF, Webservices - SOAP and REST and JSR specifications. 
 
--Hands-on experience with building solutions on top of  AWS Serverless Stack of API Gateway and Lambda and host of other Managed Services of AWS. Leveraged AWS DevOps for CI - CD pipeline and knowledge of Infra As Code paradigm ( IAC ) like Cloud Formation and Terraform
+- Hands-on experience with building solutions on top of  AWS Serverless Stack of API Gateway and Lambda and host of other Managed Services of AWS. Leveraged AWS DevOps for CI - CD pipeline and knowledge of Infra As Code paradigm ( IAC ) like Cloud Formation and Terraform
 
-Exposure to Business Domains like Banking, Insurance, Life Sciences, Retail and eCommerce 
+- Exposure to Business Domains like Banking, Insurance, Life Sciences, Retail and eCommerce 
 
-Connoisseur of all things new and shiny. Jack of All, Master Of None. Generalist over Specialist. 
+- Connoisseur of all things new and shiny. Jack of All, Master Of None. Generalist over Specialist. 
 
 Specialties : 
 
@@ -31,6 +31,6 @@ Career Progression
 - Cloud  / Serverless / DevOps ( 3+ years , since 2018 ) 
 - Data / ML / AI  (  baby steps, since October 2020)
 
--Blog: https://dinakaran.dev/blog
--Podcast: Master Of None. https://anchor.fm/themasterofnone 
--Twitter: https://twitter.com/dinquisitively
+- Blog: https://dinakaran.dev/blog
+- Podcast: Master Of None. https://anchor.fm/themasterofnone 
+- Twitter: https://twitter.com/dinquisitively
