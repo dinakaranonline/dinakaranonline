@@ -23,9 +23,9 @@ Specialties :
 - Building and Mentoring/Coaching Cross-Functional Teams & Recruitment
 - Technical Delivery Ownership and Stakeholder Management 
 
-Career Progression 
+Career Progression : 
 
-- Java/J2EE  ( 12+ years, since 2006 )
+- Java/J2EE , API's ( 12+ years, since 2006 )
 - IBM Portal/ Web Content Management (10+ years, 2006 - 2017) 
 - Front End Technologies - Angular ( 2+ years, on-and-off since 2017 )
 - Cloud  / Serverless / DevOps ( 3+ years , since 2018 ) 
