@@ -1,10 +1,10 @@
-I'm Dinakaran from Chennai, India. I have a little over 14+ years of IT experience and 3+ years of Cloud experience predominantly focussed on AWS. 
+I'm Dinakaran from Chennai, India. I'm an Engineering Leader with 14+ yrs of experience building Transformative Digital Solutions in the intersection of Web, AWS Cloud , DevOps and Microservices
 
-Few highlights of my work experience and skillset
+Few highlights of my work experience
 
 -Architecting and  Building Transformative Digital  Solutions at the intersection of Web, Mobile, Content, Cloud Native architectures like  Serverless
 
--Extensive experience in all stages of SDLC life cycle and has hands-on experience on product evaluation, architecture, design and development roles as well as good exposure  in support and maintenance of large scale applications    
+-Extensive experience in all stages of SDLC life cycle and has hands-on experience on product evaluation, architecture, design and development roles as well as good exposure in support and maintenance of large scale applications    
 
 -Proficient in the technology stack of Java/J2EE Core Java, MVC - Struts, JSF, Webservices - SOAP and REST and JSR specifications. 
 
