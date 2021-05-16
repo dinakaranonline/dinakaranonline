@@ -1,4 +1,4 @@
-I'm Dinakaran from Chennai, India. I'm an Engineering Manager with 15+ yrs of experience building Transformative Digital Solutions in the intersection of Web, AWS Cloud , DevOps and Microservices
+I'm Dinakaran from Chennai, India. I'm an Engineering Manager with 15+ yrs of experience building Transformative Digital Solutions in the intersection of Web, AWS Cloud , DevOps and Microservices. I'm part of AWS Community Builders group.
 
 Few highlights of my work experience
 
@@ -36,3 +36,4 @@ Social :
 - Blog: https://dinakaran.dev/blog
 - Podcast: Master Of None. https://anchor.fm/themasterofnone 
 - Twitter: https://twitter.com/dinquisitively
+- LinkedIn: https://www.linkedin.com/in/dinakaran-sankaranarayanan-3b73a79
