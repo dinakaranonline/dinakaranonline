@@ -29,7 +29,6 @@ Career Progression :
 - IBM Portal/ Web Content Management (10+ years, 2006 - 2017) 
 - Front End Technologies - Angular ( 2+ years, on-and-off since 2017 )
 - Cloud  / Serverless / DevOps ( 3+ years , since 2018 ) 
-- Data / ML / AI  (  baby steps, since October 2020)
 
 Social :
 
