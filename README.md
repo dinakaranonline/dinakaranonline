@@ -1,4 +1,4 @@
-Dinakaran has over 15+ years of IT experience in a multitude of technology stacks.  He is currently the Engineering Manager at Lifion At ADP and manages two different microservices with 4 to 5 engineers in each of them. 
+Dinakaran has over 15+ years of IT experience in a multitude of technology stacks.  He is currently the Engineering Manager at Lifion By ADP and manages two different microservices with 4 to 5 engineers in each of them. 
 
 Over the last 4+ years, he is focussed exclusively on building and managing cloud-native microservices in AWS using Java and Nodejs in combination with Serverless Stack as well as Kubernetes.
 
